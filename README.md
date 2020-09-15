@@ -1,5 +1,7 @@
 # Python_Tools
 
+### rename_files.py
+Old project, don't remember the purpose, I think it was written to delete certain text from .ROM files
 
 ### sep_pdf.py
 Recipe (Note: Windows only)
