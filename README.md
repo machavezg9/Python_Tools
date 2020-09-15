@@ -12,3 +12,9 @@ Recipe (Note: Windows only)
 5. Run Script
 
 (Note: added 10 second delay per file to not bog down system, you can change that as you like)
+ 
+ Assembled from these sources:
+ [Source 1](https://github.com/pmaupin/pdfrw#writing-pdfs)
+ [Source 2](https://stackoverflow.com/questions/55611121/split-specific-pages-of-pdf-and-save-it-with-python)
+ [Source 3](https://stackoverflow.com/questions/1798465/python-remove-last-3-characters-of-a-string)
+ [Source 4](https://ourcodeworld.com/articles/read/850/how-to-retrieve-the-desktop-path-in-windows-with-python)
