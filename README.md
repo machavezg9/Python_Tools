@@ -1,7 +1,7 @@
 # Python_Tools
 
 
-###sep_pdf.py
+### sep_pdf.py
 Recipe (Note: Windows only)
 1. Create new folder on desktop named Separate Me
 2. Save python script anywhere
